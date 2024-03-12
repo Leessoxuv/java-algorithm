@@ -11,6 +11,7 @@ public class Max3m {
         return max;
     }
 
+
     public static void main(String[] args) {
         System.out.println("max3(3,2,1) = " + max3(3, 2, 1));
         System.out.println("max3(3,2,2) = " + max3(3, 2, 2));

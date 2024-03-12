@@ -13,7 +13,6 @@ public class Test1 {
             max = d;
         return max;
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("a의 값 : ");

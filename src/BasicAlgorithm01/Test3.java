@@ -14,7 +14,6 @@ public class Test3 {
             min = d;
         return min;
     }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("a의 값은 : ");
